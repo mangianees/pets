@@ -7,10 +7,25 @@ html, body {
     padding: 0;
     background-image: url('/img/2.jpg');
     background-size:100% 100%;    
+    font-family: 'Gloria Hallelujah', cursive;
+    background-attachment: fixed;
 }
 
 #navbartxt {
     color:black;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+#mainbanner{
+    
+    padding:15%;
+    
+    float: unset;
+
 }
 
 
+
+#stickybtn {
+    float: right;
+  }
